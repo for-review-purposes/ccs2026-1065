@@ -18,4 +18,4 @@ The tools and scripts are currently maintained separately in three different rep
 ## To Reproduce Analyses
 
 - Clone [cns-bitcoin](https://github.com/for-review-purposes/cns-bitcoin/) and [cns-tools](https://github.com/for-review-purposes/cns-tools/) under the same directory (so that they are sibling directories).
-- Analysis scripts can be found under [`examples/configs`](https://github.com/for-review-purposes/cns-bitcoin/examples/configs/). 
+- Analysis scripts can be found under [`examples/configs`](https://github.com/for-review-purposes/cns-bitcoin/tree/main/examples/configs). 
