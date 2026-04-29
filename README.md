@@ -1,4 +1,4 @@
-# Reproducibility Package for CCS 2026 submission \#1085: *"Finality-oriented simulation-based evaluation of blockchain consensus networks: the CNS framework"*
+# Reproducibility Package for CCS 2026 submission \#1065: *"Finality-oriented simulation-based evaluation of blockchain consensus networks: the CNS framework"*
 
 ## Overview
 
